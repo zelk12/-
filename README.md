@@ -29,6 +29,7 @@
 
 # VR
 - Virtual Desktop
+- SideQuest
 
 # разное
 - PowerToys
