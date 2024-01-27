@@ -5,7 +5,9 @@
 - Equalizer APO
 - Pedalboard2
 ## Nvidia
-- Nvidia Broadcast 
+- Nvidia Broadcast
+## VST
+- ReaPlugs VST FX Suite
 
 # Видео
 ## Nvidia 
@@ -15,6 +17,9 @@
 - Discord 
 - Telegram
 - Viber
+
+# Архиватор
+- WinRAR
 
 # Переводчик
 - DeepL
